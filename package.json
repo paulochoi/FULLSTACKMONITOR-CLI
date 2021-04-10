@@ -31,6 +31,7 @@
     "@chakra-ui/react": "^1.4.1",
     "@emotion/react": "^11.1.5",
     "@emotion/styled": "^11.1.5",
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.6.0",
     "ansi": "^0.3.1",
     "autoprefixer": "^10.2.5",
     "babel-loader": "^8.2.2",
